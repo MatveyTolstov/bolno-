@@ -9,8 +9,8 @@
 
         public UserBase(int id,string login, string password, Roles roles) {
             this.id = id;
-            this.login = "Admin";
-            this.password = "Admin";
+            this.login = login;
+            this.password = login;
             this.roles = roles;
         }
 

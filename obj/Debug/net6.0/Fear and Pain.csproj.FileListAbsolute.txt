@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\Fear and Pain\obj\Debug\net6.0\Fear and Pain.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Fear and Pain\obj\Debug\net6.0\Fear and Pain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Fear and Pain\obj\Debug\net6.0\Fear and Pain.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Fear and Pain\obj\Debug\net6.0\Fear and Pain.AssemblyInfo.cs
+C:\Users\HP\source\repos\Fear and Pain\obj\Debug\net6.0\Fear and Pain.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Fear and Pain\bin\Debug\net6.0\Fear and Pain.exe
+C:\Users\HP\source\repos\Fear and Pain\bin\Debug\net6.0\Fear and Pain.deps.json
+C:\Users\HP\source\repos\Fear and Pain\bin\Debug\net6.0\Fear and Pain.runtimeconfig.json
+C:\Users\HP\source\repos\Fear and Pain\bin\Debug\net6.0\Fear and Pain.dll
+C:\Users\HP\source\repos\Fear and Pain\bin\Debug\net6.0\Fear and Pain.pdb
+C:\Users\HP\source\repos\Fear and Pain\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\HP\source\repos\Fear and Pain\obj\Debug\net6.0\Fear and Pain.csproj.CopyComplete
+C:\Users\HP\source\repos\Fear and Pain\obj\Debug\net6.0\Fear and Pain.dll
+C:\Users\HP\source\repos\Fear and Pain\obj\Debug\net6.0\refint\Fear and Pain.dll
+C:\Users\HP\source\repos\Fear and Pain\obj\Debug\net6.0\Fear and Pain.pdb
+C:\Users\HP\source\repos\Fear and Pain\obj\Debug\net6.0\Fear and Pain.genruntimeconfig.cache
+C:\Users\HP\source\repos\Fear and Pain\obj\Debug\net6.0\ref\Fear and Pain.dll

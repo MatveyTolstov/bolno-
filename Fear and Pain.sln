@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fear and Pain", "Fear and Pain.csproj", "{849D35F5-040E-4C0C-882B-A27A2B096930}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{849D35F5-040E-4C0C-882B-A27A2B096930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{849D35F5-040E-4C0C-882B-A27A2B096930}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{849D35F5-040E-4C0C-882B-A27A2B096930}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{849D35F5-040E-4C0C-882B-A27A2B096930}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E06D72A-6899-4738-8C45-E4C9163C2EDE}
+	EndGlobalSection
+EndGlobal
